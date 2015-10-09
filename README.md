@@ -2,10 +2,6 @@
 
 A project that teaches kids how to launch high altitude weather balloons into near space.
 
-## Permissions
-
-TODO: .
-
 ## Shopping list
 
 * High-altitude balloon:
