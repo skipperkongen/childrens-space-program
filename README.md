@@ -14,8 +14,8 @@ TODO
 ## Launch instructions
 
 * How to choose time and place
-    * Ideal weather conditions: TODO
-    * How to get permission to launch the balloon: TODO
+    * Ideal weather conditions
+    * How to get permission to launch the balloon
 * How to launch balloon
 * How to recover balloon
 * How to process data from balloon
