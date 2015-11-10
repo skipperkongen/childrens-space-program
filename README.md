@@ -22,7 +22,7 @@ A project that teaches kids how to launch high altitude weather balloons into ne
 
 ## Calculations
 
-You can find a [balloon performance calculator](http://tools.highaltitudescience.com/) at [www.highaltitudescience.com](http://www.highaltitudescience.com/) where you can also [read about the input parameters](http://www.highaltitudescience.com/pages/balloon-performance-calculator) it takes.
+The examples below have been calculated with the [balloon performance calculator](http://tools.highaltitudescience.com/). You can [read about the input parameters](http://www.highaltitudescience.com/pages/balloon-performance-calculator) it takes.
 
 ### Examples
 
