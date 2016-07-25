@@ -13,6 +13,9 @@ A project that teaches kids how to launch high altitude weather balloons into ne
     * 0.25 m3 til [796 DKK per m3](http://www.mintemafest.dk/Info/Ballongas/Heliumgas_uden_Balloner/Lille_Helium_Gas_Cylinder_uden_Balloner_-_Single.html)
     * 0.82 m3 til [729 DKK per m3](http://www.mintemafest.dk/Info/Ballongas/Heliumgas_uden_Balloner/Stor_Helium_Gas_Cylinder_uden_Balloner_-_Pakke_med_2.html)
 
+
+!(Helium prices)[http://www.weldingandgasestoday.org/wp-content/uploads/2012/04/helium_prices.png]
+
 ## Tutorials
 
 * [Intro to Weather Balloons](http://www.highaltitudescience.com/pages/intro-to-weather-balloons)
