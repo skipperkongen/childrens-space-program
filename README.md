@@ -1,6 +1,6 @@
 # Children's Space Program
 
-> What if kids could launch sensor platforms into near space?
+> What if kids could deploy a sensor platforms into near space?
 
 A project for kids to launch high-altitude weather balloons into near space.
 
