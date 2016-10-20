@@ -10,6 +10,7 @@ Kids divide into groups and complete the project:
 
 * Atmosphere group: How to choose perfect time and place for launch?
 * Entrepreneur group: How to get permission and exploit launch? (maybe for adults)
+* Media group: How to design and video capture launch?
 * Builder group: How to build and launch balloon?
 * Tracking group: How to safely land and recover balloon?
 * Data group: How to process data from balloon?
