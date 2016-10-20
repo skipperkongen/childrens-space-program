@@ -4,6 +4,18 @@
 
 A project for kids to launch high-altitude weather balloons into near space.
 
+## Project outline
+
+Kids divide into groups and complete the project:
+
+* Weather group: How to choose time and place?
+    * Ideal weather conditions
+    * How to get permission to launch the balloon
+* Builder group: How to build and launch balloon?
+* Tracking group: How to safely land and recover balloon?
+* Data group: How to process data from balloon?
+
+
 ## Shopping list
 
 * High-altitude balloon:
@@ -62,15 +74,6 @@ Example 3:
 ## Assembly instructions
 
 TODO
-
-## Launch instructions
-
-* How to choose time and place
-    * Ideal weather conditions
-    * How to get permission to launch the balloon
-* How to launch balloon
-* How to recover balloon
-* How to process data from balloon
 
 ## Related projects
 
