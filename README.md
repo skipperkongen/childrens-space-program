@@ -10,7 +10,7 @@ Kids divide into groups and complete the project. The structure mimics the divis
 
 * Atmosphere group: How to choose perfect time and place for launch?
 * Media group: How to design and video capture the mission?
-* Builder group: How to build and launch balloon?
+* Builder group: How to build the balloon platform?
 * Tracking group: How to safely land and recover balloon?
 * Data group: How to process data from balloon?
 
