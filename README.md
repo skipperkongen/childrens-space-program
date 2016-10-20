@@ -6,7 +6,7 @@ A project for kids to launch high-altitude weather balloons into near space.
 
 ## Project outline
 
-Kids divide into groups and complete the project:
+Kids divide into groups and complete the project. The structure mimics the division of responsibilities for a real space launch:
 
 * Atmosphere group: How to choose perfect time and place for launch?
 * Entrepreneur group: How to get permission and exploit launch? (maybe for adults)
