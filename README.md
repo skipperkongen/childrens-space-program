@@ -9,11 +9,14 @@ A project for kids to launch high-altitude weather balloons into near space.
 Kids divide into groups and complete the project. The structure mimics the division of responsibilities for a real space launch:
 
 * Atmosphere group: How to choose perfect time and place for launch?
-* Entrepreneur group: How to get permission and exploit launch? (maybe for adults)
 * Media group: How to design and video capture launch?
 * Builder group: How to build and launch balloon?
 * Tracking group: How to safely land and recover balloon?
 * Data group: How to process data from balloon?
+
+Other group (mostly for adults):
+
+* Entrepreneur group: How to get permission and perhaps exploit launch like sponsorships?
 
 
 ## Shopping list
