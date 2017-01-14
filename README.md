@@ -4,21 +4,6 @@
 
 A project for kids to launch high-altitude weather balloons into near space.
 
-## Project outline
-
-Kids divide into groups and complete the project. The structure mimics the division of responsibilities for a real space launch:
-
-* Atmosphere group: How to choose perfect time and place for launch?
-* Media group: How to design and video capture the mission?
-* Builder group: How to build the balloon platform?
-* Tracking group: How to safely land and recover balloon?
-* Data group: How to process data from balloon?
-
-Other group (mostly for adults):
-
-* Entrepreneur group: How to get permission and perhaps exploit launch like sponsorships?
-
-
 ## Small balloon project
 
 In this project you will launch a real weather balloon that is tied to a string, so you can pull it down again :-)
@@ -55,6 +40,18 @@ After successful launch:
 ## Extended Project
 
 In this project you will launch a real weather balloon into near space. This is an advanced project, which requires better preparation, more gear and more permissions.
+
+Kids divide into groups and complete the project. The structure mimics the division of responsibilities for a real space launch:
+
+* Atmosphere group: How to choose perfect time and place for launch?
+* Media group: How to design and video capture the mission?
+* Builder group: How to build the balloon platform?
+* Tracking group: How to safely land and recover balloon?
+* Data group: How to process data from balloon?
+
+Other group (mostly for adults):
+
+* Entrepreneur group: How to get permission and perhaps exploit launch like sponsorships?
 
 ## Tutorials
 
