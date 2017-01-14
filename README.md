@@ -4,17 +4,42 @@
 
 A project that teaches kids how to launch high altitude weather balloons into near space.
 
-## Shopping list
+## Small balloon project
 
-* High-altitude balloon:
-    * [$55.00](http://www.highaltitudescience.com/products/600-g-near-space-balloon) from high-altitude science
-* Helium:
-    * 3.6 m3 til [550 DKK per m3](http://www.pegani.dk/dk/product/helium/ballongas-20-l.aspx)
-    * 0.25 m3 til [796 DKK per m3](http://www.mintemafest.dk/Info/Ballongas/Heliumgas_uden_Balloner/Lille_Helium_Gas_Cylinder_uden_Balloner_-_Single.html)
-    * 0.82 m3 til [729 DKK per m3](http://www.mintemafest.dk/Info/Ballongas/Heliumgas_uden_Balloner/Stor_Helium_Gas_Cylinder_uden_Balloner_-_Pakke_med_2.html)
+In this project you will launch a real weather balloon that is tied to a string, so you can pull it down again :-)
 
+Shopping list:
+
+* Balloon - [$55.00](http://www.highaltitudescience.com/products/600-g-near-space-balloon)
+* Helium 3.6 m^3 - [550 DKK per m3](http://www.pegani.dk/dk/product/helium/ballongas-20-l.aspx)
+* 500 m fish line [38 DKK](http://www.harald-nyborg.dk/p1109/fiskeline-0-20mm-500m-2-5kg)
+* Rig (to be decided)
+* Camera (to be decided)
+* Sensor (to be decided)
+* Communications - ground to balloon (to be decided)
+* Ground equipment - screen device that can show live data from balloon (to be decided)
 
 ![Helium prices](http://www.weldingandgasestoday.org/wp-content/uploads/2012/04/helium_prices.png)
+
+Launch instructions:
+
+* Pick a location (examples):
+    * Amager Fælled
+* Pick a day with nice weather:
+    * No wind
+* Pick mission objective (examples):
+    * Reach altitude: 500 m above the ground
+    * Imagery: collect aerial photos and video of your town or neighborhood
+    * Data collection: gather data from the balloon's onboard sensors
+
+After successful launch:
+
+* Download video and sensor data
+* Make a Youtube video that explains and concludes on the mission
+
+## Extended Project
+
+In this project you will launch a real weather balloon into near space. This is an advanced project, which requires better preparation, more gear and more permissions.
 
 ## Tutorials
 
@@ -59,20 +84,6 @@ Example 3:
 
 
 
-## Assembly instructions
-
-TODO
-
-## Launch instructions
-
-* How to choose time and place
-    * Ideal weather conditions
-    * How to get permission to launch the balloon
-* How to launch balloon
-* How to recover balloon
-* How to process data from balloon
-
 ## Related projects
 
 TODO: links to YouTube videos.
-
