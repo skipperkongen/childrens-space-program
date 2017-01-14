@@ -1,8 +1,23 @@
 # Children's Space Program
 
-> What if kids could launch sensor platforms into near space?
+> What if kids could deploy a sensor platforms into near space?
 
-A project that teaches kids how to launch high altitude weather balloons into near space.
+A project for kids to launch high-altitude weather balloons into near space.
+
+## Project outline
+
+Kids divide into groups and complete the project. The structure mimics the division of responsibilities for a real space launch:
+
+* Atmosphere group: How to choose perfect time and place for launch?
+* Media group: How to design and video capture the mission?
+* Builder group: How to build the balloon platform?
+* Tracking group: How to safely land and recover balloon?
+* Data group: How to process data from balloon?
+
+Other group (mostly for adults):
+
+* Entrepreneur group: How to get permission and perhaps exploit launch like sponsorships?
+
 
 ## Small balloon project
 
@@ -81,7 +96,6 @@ Example 3:
 * Estimated burst altitude 31 km
 * Avg. rate of ascent 1.5 m/sec
 * Ascent time 5.7 hours
-
 
 
 ## Related projects
