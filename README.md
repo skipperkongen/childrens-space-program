@@ -10,8 +10,8 @@ In this project you will launch a real weather balloon that is tied to a string,
 
 Shopping list:
 
-* Balloon - [$55.00](http://www.highaltitudescience.com/products/600-g-near-space-balloon)
-* Helium 3.6 m^3 - [550 DKK per m3](http://www.pegani.dk/dk/product/helium/ballongas-20-l.aspx)
+* Balloon - [$55](http://www.highaltitudescience.com/products/600-g-near-space-balloon)
+* Helium 3.6 m^3 - [DKK 1.995](http://www.pegani.dk/dk/product/helium/ballongas-20-l.aspx) (DKK 550 per m^3)
 * 500 m fishing line [38 DKK](http://www.harald-nyborg.dk/p1109/fiskeline-0-20mm-500m-2-5kg)
 * Fishing rod or other pulley system (to be decided)
 * Rig (to be decided)
